@@ -1,5 +1,5 @@
 - 🙋‍♂️ Hey! I'm Diganta Modak
-- 🔭 I’m currently B.Tech student at IIIT Kalyani
+- 🔭 I’m currently a B.Tech student at IIIT Kalyani
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - 👯 I’m looking to collaborate on :  Machine Learning Projects || Deep Learning Projects || MERN Stack Projects
 - 📫 How to reach me: 
